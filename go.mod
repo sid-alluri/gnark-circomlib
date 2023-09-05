@@ -1,4 +1,4 @@
-module github.com/liyue201/gnark-circomlib
+module github.com/sid-alluri/gnark-circomlib
 
 go 1.18
 
